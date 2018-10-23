@@ -1,0 +1,7 @@
+Area AreaEfficiency ReadLatency WriteLatency ReadDynEnergy WriteDynEnergy LeakageEnergy 
+op_MRAM_wwx/512K1024ww.txt
+891695.981um^2 26.010% 1.550ns 10.374ns 469.695pJ 1.319nJ 250.605mW
+op_MRAM_wwx/512K2048ww.txt
+1.292mm^2 17.945% 2.135ns 10.831ns 1.161nJ 2.837nJ 140.366mW
+op_MRAM_wwx/512K512ww.txt
+647505.430um^2 35.819% 1.456ns 10.305ns 217.443pJ 652.832pJ 357.818mW
