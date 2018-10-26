@@ -14,21 +14,21 @@ wordwidth = str(sys.argv[2])
 outputfile = open("output-"+memtype+"-ww"+wordwidth+".txt", "w")
 
 if memtype == "SRAM":
-    area_line = 45
-    area_eff_line = 48
-    read_lat = 50
-    write_lat = 60
-    read_dyn = 70
-    write_dyn = 80
-    leakage = 88
+    area_line = 144
+    area_eff_line = 147
+    read_lat = 149
+    write_lat = 160
+    read_dyn = 170
+    write_dyn = 180
+    leakage = 188
 elif memtype == "MRAM" or memtype == "SOT":
-    area_line = 53
-    area_eff_line = 56
-    read_lat = 58
-    write_lat = 68
-    read_dyn = 79
-    write_dyn = 90
-    leakage = 99
+    area_line = 155
+    area_eff_line = 158
+    read_lat = 160
+    write_lat = 171
+    read_dyn = 183
+    write_dyn = 193
+    leakage = 202
 
 
 #filepath = str("op_"+memtype+"_ww"+wordwidth+"/"+*.

@@ -1,7 +1,7 @@
 //CELL FILE - SOT-MRAM: INITIAL VERSION
 
 -MemCellType: MRAM
--CellArea (F^2): 60.61
+-CellArea (F^2): 81.5
 -CellAspectRatio: 0.6
 -ResistanceOn (ohm): 3000
 -ResistanceOff (ohm): 6000
